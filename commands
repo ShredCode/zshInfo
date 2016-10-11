@@ -1,1 +1,10 @@
 setopt - shows the current settings
+
+setopt ->                    
+autocd
+combiningchars
+completeinword
+interactive
+monitor
+shinstdin
+zle
