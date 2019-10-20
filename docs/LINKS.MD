@@ -5,4 +5,7 @@
 
 [ZSH vs Bash](https://news.ycombinator.com/item?id=5690235)
 
+[ZSH vs FISH] (https://news.ycombinator.com/item?id=18777152)
+
 [Fish-like autosuggestions for zsh](https://github.com/zsh-users/zsh-autosuggestions)
+
