@@ -1,5 +1,8 @@
 This tutorial is focused on getting you started with ZSH install.
 
+## Update
+* Mac default shell is now ZSH
+
 ## Homebrew
 * For Mac, you can use the following command: 
 `brew install zsh`
